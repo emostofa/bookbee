@@ -1,9 +1,5 @@
 
-// Suggested code may be subject to a license. Learn more: ~LicenseLog:822980413.
-// Suggested code may be subject to a license. Learn more: ~LicenseLog:2887414252.
-// Suggested code may be subject to a license. Learn more: ~LicenseLog:4149590740.
-// Suggested code may be subject to a license. Learn more: ~LicenseLog:2479125393.
-javascript
+
 export default function ProductPage() {
   return (
     <div className="container mx-auto p-4">
